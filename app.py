@@ -28,7 +28,7 @@ st.write('*Given the bank customer data 📊, this application predicts the prob
          'by applying artificial neural network techniques 🧠. This allows the bank to improve their customer '
          'service 👨🏻‍💻'
          'by targeting low hanging fruits and thus preventing churn.*')
-st.info('Select the customer data from sidebar')
+st.info('🛈 Select the customer data from sidebar ⬅️')
 
 # User inputs
 st.sidebar.header('Configuration')
